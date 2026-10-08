@@ -1,0 +1,20 @@
+{
+  "username": "LyfofHari",
+  "password": "Hava@0501",
+  "location": "New York",
+  "hotel": "Hotel Sunshine",
+  "roomType": "Super Deluxe",
+  "numberOfRooms": "2",
+  "checkInDate": "03/09/2026",
+  "checkOutDate": "13/09/2026",
+  "adultsPerRoom": "2",
+  "childrenPerRoom": "2",
+  "firstName": "Hariprasath",
+  "lastName": "Perumal",
+  "billingAddress": "Chennai",
+  "creditCardNumber": "1234567890121234",
+  "creditCardType": "Master Card",
+  "expiryMonth": "January",
+  "expiryYear": "2030",
+  "cvv": "1234"
+}
